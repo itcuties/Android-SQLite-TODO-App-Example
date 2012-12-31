@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ITCSQLiteExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_addnew">Add new</string>
+    <string name="button_addnew">Add</string>
+    <string name="button_menu_goback">Back</string>
+
+</resources>
